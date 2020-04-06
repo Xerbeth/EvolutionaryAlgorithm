@@ -1,0 +1,10 @@
+F:\Código .NET\Windows Forms\EvolutionaryAlgorithm\EvolutionaryAlgorithm\bin\Debug\EvolutionaryAlgorithm.exe.config
+F:\Código .NET\Windows Forms\EvolutionaryAlgorithm\EvolutionaryAlgorithm\bin\Debug\EvolutionaryAlgorithm.exe
+F:\Código .NET\Windows Forms\EvolutionaryAlgorithm\EvolutionaryAlgorithm\bin\Debug\EvolutionaryAlgorithm.pdb
+F:\Código .NET\Windows Forms\EvolutionaryAlgorithm\EvolutionaryAlgorithm\obj\Debug\EvolutionaryAlgorithm.csprojAssemblyReference.cache
+F:\Código .NET\Windows Forms\EvolutionaryAlgorithm\EvolutionaryAlgorithm\obj\Debug\EvolutionaryAlgorithm.Properties.Resources.resources
+F:\Código .NET\Windows Forms\EvolutionaryAlgorithm\EvolutionaryAlgorithm\obj\Debug\EvolutionaryAlgorithm.csproj.GenerateResource.cache
+F:\Código .NET\Windows Forms\EvolutionaryAlgorithm\EvolutionaryAlgorithm\obj\Debug\EvolutionaryAlgorithm.csproj.CoreCompileInputs.cache
+F:\Código .NET\Windows Forms\EvolutionaryAlgorithm\EvolutionaryAlgorithm\obj\Debug\EvolutionaryAlgorithm.exe
+F:\Código .NET\Windows Forms\EvolutionaryAlgorithm\EvolutionaryAlgorithm\obj\Debug\EvolutionaryAlgorithm.pdb
+F:\Código .NET\Windows Forms\EvolutionaryAlgorithm\EvolutionaryAlgorithm\obj\Debug\EvolutionaryAlgorithm.Form1.resources
